@@ -1,3 +1,9 @@
 [submodule "deps/snappy/snappy"]
 	path = deps/snappy/snappy
 	url = https://github.com/google/snappy.git
+[submodule "deps/leveldb/leveldb"]
+	path = deps/leveldb/leveldb
+	url = https://github.com/Mojang/leveldb-mcpe
+[submodule "deps/zlib"]
+	path = deps/zlib
+	url = https://github.com/cybertk/zlib-gyp

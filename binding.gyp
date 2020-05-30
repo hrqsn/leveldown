@@ -1,6 +1,9 @@
 {
   "targets": [{
     "target_name": "leveldown",
+    "defines": [
+      "DLLX="
+    ],
     "conditions": [
       ["OS == 'win'", {
         "defines": [
